@@ -12,12 +12,20 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/interview" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/interview" />
+      <recent name="$PROJECT_DIR$/docs/persistence" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/interview/2020Spring" />
+      <recent name="$PROJECT_DIR$/docs/interview" />
+      <recent name="$PROJECT_DIR$/docs/腾讯一面笔试题" />
       <recent name="$PROJECT_DIR$/docs" />
     </key>
   </component>
@@ -43,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584892082486</updated>
-      <workItem from="1584892085715" duration="1751000" />
+      <workItem from="1584892085715" duration="4995000" />
     </task>
     <servers />
   </component>
