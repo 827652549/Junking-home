@@ -27,6 +27,7 @@
 |[#!/usr/bin/env node 到底是什么？](https://juejin.im/post/5cb93cd651882578b148c637)|`ShaBang`、`HashBang`、`node`|
 |[npm link的使用](https://www.jianshu.com/p/aaa7db89a5b2)|`npm`、`link`|
 |[【自检】前端知识清单](http://www.conardli.top/blog/article/%E7%BB%BC%E5%90%88/%E3%80%90%E8%87%AA%E6%A3%80%E3%80%91%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E6%B8%85%E5%8D%95.html)|`前端`、`自我检测`、`进阶`|
+|[HTTP之connect method](https://www.jianshu.com/p/54357cdd4736)|`connect`、`HTTP`、`翻墙`|
 
 
 

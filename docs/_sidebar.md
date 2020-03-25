@@ -3,6 +3,8 @@
 * **[我的计划 📈️](#)**
     * [2020计划](plans/2020plan.md)
     * [五年计划](plans/2020-2024.md)
+* **[亟待解决](#)**
+    * [暂未解决的问题](remaining/remaining-questions.md)
 * **[我的书籍 📖](#)**
     * [《Canvas教程》](https://827652549.github.io/CanvasStudy/)
     * [《前端面试精粹》](https://827652549.github.io/my-book/)
@@ -19,6 +21,7 @@
     * [贼值得学习的平台](collections/platforms.md)
 * **[刷题秘籍 😈](#)**
     * [Java常用API](coding-secret/java-api.md)
+* **[黑客攻坚战 🦠](hack/eg.md)**
 * **[读书笔记 ✒️](#)**
     * [阿里铁军销售课](reading-notes/alibaba-sell.md)
     * [JS红宝书](https://blog.csdn.net/huoyihengyuan/category_9385121.html)
