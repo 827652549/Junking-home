@@ -29,6 +29,8 @@
 |[【自检】前端知识清单](http://www.conardli.top/blog/article/%E7%BB%BC%E5%90%88/%E3%80%90%E8%87%AA%E6%A3%80%E3%80%91%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E6%B8%85%E5%8D%95.html)|`前端`、`自我检测`、`进阶`|
 |[HTTP之connect method](https://www.jianshu.com/p/54357cdd4736)|`connect`、`HTTP`、`翻墙`|
 |[深入看看\_\_proto\_\_到底是什么](https://blog.csdn.net/qq_29712603/article/details/51789832)|`__proto__`、`原型链`|
-
+|[React 合成事件和原生事件的区别](https://www.jianshu.com/p/8d8f9aa4b033)|`React`、`合成事件`、`原生事件`|
+|[react合成事件](https://www.cnblogs.com/celine-huang/p/11528223.html)|`React`、`合成事件`、`原生事件`|
+|[4张动图解释为什么（什么时候）使用Redux](https://segmentfault.com/a/1190000012142449)|`Redux`、`React`|
 
 
