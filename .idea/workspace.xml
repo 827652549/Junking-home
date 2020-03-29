@@ -8,6 +8,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1ZUSGDPrWINBFoJhBSpEvq24d4W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -54,7 +61,7 @@
       <workItem from="1584892085715" duration="31676000" />
       <workItem from="1585104941517" duration="8505000" />
       <workItem from="1585314883005" duration="6126000" />
-      <workItem from="1585415689069" duration="346000" />
+      <workItem from="1585415689069" duration="8368000" />
     </task>
     <servers />
   </component>

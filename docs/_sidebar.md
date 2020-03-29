@@ -9,7 +9,6 @@
     * [《Canvas教程》](https://827652549.github.io/CanvasStudy/)
     * [《前端面试精粹》](https://827652549.github.io/my-book/)
 * **[面试经历 🧙](#)**
-    * [笔试面试100问(持续更新ing)](interview/experience/questions.md)
     * [我的2020年春招](interview/2020Spring/2020spring.md)
         * [阿里提前批一面](interview/2020Spring/阿里提前批一面.md)
         * [美团一面](interview/2020Spring/美团一面.md)
@@ -22,8 +21,6 @@
     * [贼高质量的文章](collections/articles.md)
     * [贼好用的工具](collections/tools.md)
     * [贼值得学习的平台](collections/platforms.md)
-* **[刷题秘籍 😈](#)**
-    * [Java常用API](coding-secret/java-api.md)
 * **[黑客攻坚战 🦠](hack/eg.md)**
 * **[读书笔记 ✒️](#)**
     * [阿里铁军销售课](reading-notes/alibaba-sell.md)
