@@ -22,7 +22,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/interview" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -61,7 +61,14 @@
       <workItem from="1584892085715" duration="31676000" />
       <workItem from="1585104941517" duration="8505000" />
       <workItem from="1585314883005" duration="6126000" />
-      <workItem from="1585415689069" duration="8368000" />
+      <workItem from="1585415689069" duration="12145000" />
+      <workItem from="1585551654879" duration="163000" />
+      <workItem from="1585551829460" duration="254000" />
+      <workItem from="1585552154965" duration="719000" />
+      <workItem from="1585553409467" duration="10000" />
+      <workItem from="1585555554991" duration="2870000" />
+      <workItem from="1585572252161" duration="23000" />
+      <workItem from="1585573221959" duration="3835000" />
     </task>
     <servers />
   </component>

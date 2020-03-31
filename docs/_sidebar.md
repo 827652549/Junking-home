@@ -16,7 +16,7 @@
         * [腾讯一面](interview/2020Spring/腾讯一面.md)
         * [腾讯二面](interview/2020Spring/腾讯二面.md)
         * [袋鼠云一面](interview/2020Spring/袋鼠云一面.md)
-        * [HR（预备阶段）](interview/2020Spring/袋鼠云HR.md)
+        * [袋鼠云HR面](interview/2020Spring/袋鼠云HR面.md)
 * **[我的收藏 📚](#)**
     * [贼高质量的文章](collections/articles.md)
     * [贼好用的工具](collections/tools.md)
@@ -35,6 +35,7 @@
     * [上海XX商厦老虎机](https://github.com/827652549/tiger-game)
     * [canvas2file](https://github.com/827652549/canvas2file)
     * [junking(命令行工具)](https://github.com/827652549/junking)
+    * [docsify-count（统计字数插件）](https://github.com/827652549/docsify-count)
     * [井字棋](https://github.com/827652549/well-chess)
     * [表白爱心照片墙](https://github.com/827652549/love-wall)
     * [图片滤镜工具组](https://github.com/827652549/PictureFilter)
@@ -42,4 +43,5 @@
     * [丹尼斯商城管理系统](https://github.com/827652549/Dennis)
     * [C语言学生成绩管理系统](https://github.com/827652549/Student-score-manager)
 * **[总结 🔚](#)️**
+    * [总结](summary/summary.md)
 
