@@ -33,5 +33,6 @@
 |[react合成事件](https://www.cnblogs.com/celine-huang/p/11528223.html)|`React`、`合成事件`、`原生事件`|
 |[4张动图解释为什么（什么时候）使用Redux](https://segmentfault.com/a/1190000012142449)|`Redux`、`React`|
 |[B端和C端产品的理解](https://www.jianshu.com/p/5c702cdd3ca0)|`B端`、`C端`|
+|[75个SEO技巧](https://ahrefs.com/blog/zh/seo-tips/)|`SEO`、`搜索引擎优化`|
 
 
