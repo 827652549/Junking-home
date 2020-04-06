@@ -56,3 +56,4 @@
 |[花瓣](https://www.taobao.com/)|给你源源不断的设计灵感|
 |[谷歌翻译](https://translate.google.cn/)|大篇文章翻译，更突出优势|
 |[专利汇](https://www.patenthub.cn/)|专利、著作权搜索平台，免费下载|
+|[看准网](https://www.kanzhun.com/)|查公司，查评价，相当于公司里的大众点评|
