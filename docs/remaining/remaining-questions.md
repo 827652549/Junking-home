@@ -24,3 +24,10 @@ https://www.w3.org/Protocols/HTTP/1.0/spec.html
 
 ### 5. 给markdown添加访问人数的记录器
 思路：iframe内嵌访问网址，返回记录
+
+### 6. 数据扁平化和路由扁平化
+
+数据扁平化参考：
+|[normalizr](https://github.com/paularmstrong/normalizr)|JSON数据范式化|
+
+路由扁平化还没找到
