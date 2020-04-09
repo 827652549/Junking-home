@@ -34,5 +34,8 @@
 |[4张动图解释为什么（什么时候）使用Redux](https://segmentfault.com/a/1190000012142449)|`Redux`、`React`|
 |[B端和C端产品的理解](https://www.jianshu.com/p/5c702cdd3ca0)|`B端`、`C端`|
 |[75个SEO技巧](https://ahrefs.com/blog/zh/seo-tips/)|`SEO`、`搜索引擎优化`|
+|[程序员要搞明白CDN，这篇应该够了](https://juejin.im/post/5d2d8928f265da1b95708b97)|`DNS`、`CDN`、`内容分发网络`|
+|[Mac更新Node版本](https://www.jianshu.com/p/71c82fc63522)|`node`、`更新`、`最新`|
+
 
 

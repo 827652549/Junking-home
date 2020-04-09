@@ -31,3 +31,5 @@ https://www.w3.org/Protocols/HTTP/1.0/spec.html
 |[normalizr](https://github.com/paularmstrong/normalizr)|JSON数据范式化|
 
 路由扁平化还没找到
+
+### 7. CDN是怎么判断用户的地理地址的？
