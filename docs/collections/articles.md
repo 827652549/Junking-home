@@ -35,7 +35,7 @@
 |[B端和C端产品的理解](https://www.jianshu.com/p/5c702cdd3ca0)|`B端`、`C端`|
 |[75个SEO技巧](https://ahrefs.com/blog/zh/seo-tips/)|`SEO`、`搜索引擎优化`|
 |[程序员要搞明白CDN，这篇应该够了](https://juejin.im/post/5d2d8928f265da1b95708b97)|`DNS`、`CDN`、`内容分发网络`|
-|[Mac更新Node版本](https://www.jianshu.com/p/71c82fc63522)|`node`、`更新`、`最新`|
+|[从Chrome源码看浏览器如何layout布局](https://www.rrfed.com/2017/02/26/chrome-layout/)|`chrome源码`、`页面渲染`、`layout`|
 
 
 
