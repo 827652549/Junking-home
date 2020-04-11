@@ -1,4 +1,6 @@
 
+!> 别人的博文再深入浅出，也不能成为自己的"圣经"，真正能让你深入浅出的，只有那些最基础、最核心的书籍：红宝书、犀牛书等等，从全面扎实的基础到深入浅出的总结，才是一个博主的自我修养。
+
 |文章名|关键字|
 |-|-|
 |[详说 Cookie, LocalStorage 与 SessionStorage](https://jerryzou.com/posts/cookie-and-web-storage/)|`cookie`、`LocalStorage`、`SessionStorage`|
