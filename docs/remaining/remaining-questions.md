@@ -33,3 +33,5 @@ https://www.w3.org/Protocols/HTTP/1.0/spec.html
 路由扁平化还没找到
 
 ### 7. CDN是怎么判断用户的地理地址的？
+
+### 8. 出一篇全面讲解chrome控制台怎么使用的教程
