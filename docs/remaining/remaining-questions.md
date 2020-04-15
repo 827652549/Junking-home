@@ -35,3 +35,5 @@ https://www.w3.org/Protocols/HTTP/1.0/spec.html
 ### 7. CDN是怎么判断用户的地理地址的？
 
 ### 8. 出一篇全面讲解chrome控制台怎么使用的教程
+
+### 9. npm script 自动化 参考https://juejin.im/book/5a1212bc51882531ea64df07
