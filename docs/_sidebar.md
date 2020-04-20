@@ -11,6 +11,8 @@
 * **[面试经历 🧙](#)**
     * [我的2020年春招](interview/2020Spring/2020spring.md)
         * [阿里提前批一面](interview/2020Spring/阿里提前批一面.md)
+        * [阿里一面](interview/2020Spring/阿里一面.md)
+        * [阿里三面](interview/2020Spring/阿里三面.md)
         * [美团一面](interview/2020Spring/美团一面.md)
         * [美团二面](interview/2020Spring/美团二面.md)
         * [腾讯一面](interview/2020Spring/腾讯一面.md)
