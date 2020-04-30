@@ -45,6 +45,10 @@
 |[字蜘FontSpider](http://font-spider.org/index.html)|按需压缩字体文件|
 |[ESLint](https://eslint.bootcss.com/)|js代码模式和规范检查工具|
 |[normalizr](https://github.com/paularmstrong/normalizr)|JSON数据范式化|
+|[opengameart](https://opengameart.org/)|国外某大佬的像素图/雪碧图网站|
+|[PixiJS](https://www.pixijs.com/)|使用最快，最灵活的2D WebGL渲染器创建精美的数字内容。
+|
+
 
 ## 学习和生活
 |工具|用途|
@@ -59,3 +63,6 @@
 |[专利汇](https://www.patenthub.cn/)|专利、著作权搜索平台，免费下载|
 |[看准网](https://www.kanzhun.com/)|查公司，查评价，相当于公司里的大众点评|
 |[超级简历](https://www.wondercv.com/)|简历新手，推荐用这个，简约大方|
+|[设计坞](https://isheji5.com/)|快速生成文字图片，相当优雅|
+|[Markdown解析](http://blog.didispace.com/tools/online-markdown/)|解析Markdown语法，方便复制（导入微信公众号编辑平台）|
+
