@@ -46,7 +46,8 @@
 |[ESLint](https://eslint.bootcss.com/)|js代码模式和规范检查工具|
 |[normalizr](https://github.com/paularmstrong/normalizr)|JSON数据范式化|
 |[opengameart](https://opengameart.org/)|国外某大佬的像素图/雪碧图网站|
-|[PixiJS](https://www.pixijs.com/)|使用最快，最灵活的2D WebGL渲染器创建精美的数字内容。
+|[PixiJS](https://www.pixijs.com/)|使用最快，最灵活的2D WebGL渲染器创建精美的数字内容。|
+|[GeoJSON](https://zh.wikipedia.org/wiki/GeoJSON)|地理空间/几何数据交换格式|
 |
 
 
