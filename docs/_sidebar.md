@@ -52,6 +52,7 @@
     * [上海XX商厦老虎机](https://github.com/827652549/tiger-game)
     * [canvas2file](https://github.com/827652549/canvas2file)
     * [junking(命令行工具)](https://github.com/827652549/junking)
+    * [小新快跑（游戏化时间线）](https://github.com/827652549/timeline-game)
     * [docsify-count（统计字数插件）](https://github.com/827652549/docsify-count)
     * [井字棋](https://github.com/827652549/well-chess)
     * [表白爱心照片墙](https://github.com/827652549/love-wall)
