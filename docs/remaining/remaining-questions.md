@@ -37,3 +37,7 @@ https://www.w3.org/Protocols/HTTP/1.0/spec.html
 ### 8. 出一篇全面讲解chrome控制台怎么使用的教程
 
 ### 9. npm script 自动化 参考https://juejin.im/book/5a1212bc51882531ea64df07
+
+### 10.为什么红宝书里面的节流像防抖？
+
+这里有一篇不知道靠不靠谱的回答
