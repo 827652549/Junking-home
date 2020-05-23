@@ -50,6 +50,7 @@
 |[GeoJSON](https://zh.wikipedia.org/wiki/GeoJSON)|地理空间/几何数据交换格式|
 |[Standard](https://standardjs.com/readme-zhcn.html)|Standard - JavaScript 代码规范|
 |[Jest](https://jestjs.io/)|create-react-app引入的测试工具|
+|[lodash](https://www.lodashjs.com/)|js拓展工具库|
 |
 
 
