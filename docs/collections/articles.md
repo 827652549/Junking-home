@@ -39,6 +39,7 @@
 |[程序员要搞明白CDN，这篇应该够了](https://juejin.im/post/5d2d8928f265da1b95708b97)|`DNS`、`CDN`、`内容分发网络`|
 |[从Chrome源码看浏览器如何layout布局](https://www.rrfed.com/2017/02/26/chrome-layout/)|`chrome源码`、`页面渲染`、`layout`|
 |[前端杂谈: 如何实现一个 Promise?](https://juejin.im/post/5c121b82f265da612061b225)|`Promise`、`原理`、`异步`|
+|[Jest测试教程-part 1-单元测试](https://juejin.im/post/5dce26f25188251845220fbc)|`Jest`、`测试`、`单元测试`、`剩余章节有其他测试`|
 
 
 

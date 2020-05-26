@@ -49,9 +49,9 @@
 |[PixiJS](https://www.pixijs.com/)|使用最快，最灵活的2D WebGL渲染器创建精美的数字内容。|
 |[GeoJSON](https://zh.wikipedia.org/wiki/GeoJSON)|地理空间/几何数据交换格式|
 |[Standard](https://standardjs.com/readme-zhcn.html)|Standard - JavaScript 代码规范|
-|[Jest](https://jestjs.io/)|create-react-app引入的测试工具|
-|[lodash](https://www.lodashjs.com/)|js拓展工具库|
-|
+|[Jest](https://jestjs.io/)|create-react-app引入的测试工具，Facebook出品|
+|[lodash](https://www.lodashjs.com/)|js拓展工具库，包含防抖、节流等函数|
+
 
 
 ## 学习和生活
