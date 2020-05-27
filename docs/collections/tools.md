@@ -69,4 +69,5 @@
 |[超级简历](https://www.wondercv.com/)|简历新手，推荐用这个，简约大方|
 |[设计坞](https://isheji5.com/)|快速生成文字图片，相当优雅|
 |[Markdown解析](http://blog.didispace.com/tools/online-markdown/)|解析Markdown语法，方便复制（导入微信公众号编辑平台）|
+|[蓝奏云](https://pc.woozooo.com/u)|第三方文件存储网盘，不限量上传<100M的文件，分高速下载链接|
 
