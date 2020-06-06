@@ -43,3 +43,5 @@ https://www.w3.org/Protocols/HTTP/1.0/spec.html
 这里有一篇不知道靠不靠谱的回答
 
 ### 11.想要翻译一篇1k+star的docs，提升英语顺便熟悉技术
+
+### 12. 使用Vue常见resize库
