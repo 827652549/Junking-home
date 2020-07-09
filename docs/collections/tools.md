@@ -51,6 +51,7 @@
 |[Standard](https://standardjs.com/readme-zhcn.html)|Standard - JavaScript 代码规范|
 |[Jest](https://jestjs.io/)|create-react-app引入的测试工具，Facebook出品|
 |[lodash](https://www.lodashjs.com/)|js拓展工具库，包含防抖、节流等函数|
+|[carbon](https://carbon.now.sh/)|代码美化，生成图片|
 
 
 
