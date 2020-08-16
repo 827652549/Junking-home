@@ -15,25 +15,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../my-book" />
+  </component>
   <component name="ProjectId" id="1ZUSGDPrWINBFoJhBSpEvq24d4W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/interview" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/interview/2020Autumn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/interview/2020Spring" />
-      <recent name="$PROJECT_DIR$/docs/interview" />
-      <recent name="$PROJECT_DIR$/docs/腾讯一面笔试题" />
-      <recent name="$PROJECT_DIR$/docs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/interview/2020Autumn" />
       <recent name="$PROJECT_DIR$/docs/interview" />
       <recent name="$PROJECT_DIR$/docs/persistence" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/interview" />
+      <recent name="$PROJECT_DIR$/docs/interview/2020Spring" />
+      <recent name="$PROJECT_DIR$/docs/腾讯一面笔试题" />
+      <recent name="$PROJECT_DIR$/docs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -117,16 +121,43 @@
       <workItem from="1592845043659" duration="1175000" />
       <workItem from="1593274312951" duration="749000" />
       <workItem from="1594025857257" duration="24000" />
-      <workItem from="1594279977315" duration="3646000" />
+      <workItem from="1594279977315" duration="3846000" />
+      <workItem from="1594969682573" duration="451000" />
+      <workItem from="1597238980503" duration="989000" />
+      <workItem from="1597406064357" duration="1798000" />
+      <workItem from="1597572481682" duration="1178000" />
     </task>
+    <task id="LOCAL-00001" summary="更新防抖节流">
+      <created>1597582835167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597582835167</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="更新防抖节流" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新防抖节流" />
   </component>
 </project>

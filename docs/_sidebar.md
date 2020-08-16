@@ -32,6 +32,10 @@
         * [快手一面](interview/2020Spring/快手一面.md)
         * [百度一面](interview/2020Spring/百度一面.md)
         * [百度二面](interview/2020Spring/百度二面.md)
+     * [我的2020年秋招](interview/2020Autumn/2020autumn.md)
+        * [字节一面](interview/2020Autumn/字节一面.md)
+
+
 * **[我的收藏 📚](#)**
     * [贼高质量的文章](collections/articles.md)
     * [贼好用的工具](collections/tools.md)
