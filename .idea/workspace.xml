@@ -133,7 +133,11 @@
       <workItem from="1598066114611" duration="9035000" />
       <workItem from="1598604054233" duration="2808000" />
       <workItem from="1598932783491" duration="2134000" />
-      <workItem from="1598953750718" duration="485000" />
+      <workItem from="1598953750718" duration="4802000" />
+      <workItem from="1599049346712" duration="7786000" />
+      <workItem from="1599641105583" duration="1081000" />
+      <workItem from="1599705966145" duration="9890000" />
+      <workItem from="1600399925284" duration="168000" />
     </task>
     <task id="LOCAL-00001" summary="更新防抖节流">
       <created>1597582835167</created>
@@ -147,6 +151,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../TypeSctipt-Study/greeter.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
