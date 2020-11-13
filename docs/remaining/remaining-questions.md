@@ -45,3 +45,4 @@ https://www.w3.org/Protocols/HTTP/1.0/spec.html
 ### 11.想要翻译一篇1k+star的docs，提升英语顺便熟悉技术
 
 ### 12. 使用Vue常见resize库
+### 13. 听说wegene这个公司可以基因检测，情绪、遗传等等，未来有钱了可以常识一下。

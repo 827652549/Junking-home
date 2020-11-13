@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5642461-55bc-4d27-ba68-088ff93db41d" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,13 +19,24 @@
   </component>
   <component name="ProjectId" id="1ZUSGDPrWINBFoJhBSpEvq24d4W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/interview/2020Autumn" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -41,18 +51,7 @@
       <recent name="$PROJECT_DIR$/docs" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -137,7 +136,19 @@
       <workItem from="1599049346712" duration="7786000" />
       <workItem from="1599641105583" duration="1081000" />
       <workItem from="1599705966145" duration="9890000" />
-      <workItem from="1600399925284" duration="168000" />
+      <workItem from="1600399925284" duration="208000" />
+      <workItem from="1600400992259" duration="276000" />
+      <workItem from="1600421471615" duration="116000" />
+      <workItem from="1600845021124" duration="743000" />
+      <workItem from="1600921878187" duration="558000" />
+      <workItem from="1602253339486" duration="227000" />
+      <workItem from="1602585987493" duration="368000" />
+      <workItem from="1602683457294" duration="519000" />
+      <workItem from="1603339064024" duration="321000" />
+      <workItem from="1603464278760" duration="300000" />
+      <workItem from="1604664937338" duration="214000" />
+      <workItem from="1605011291085" duration="395000" />
+      <workItem from="1605273758759" duration="80000" />
     </task>
     <task id="LOCAL-00001" summary="更新防抖节流">
       <created>1597582835167</created>
@@ -150,25 +161,19 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/../TypeSctipt-Study/greeter.js" />
-      </list>
-    </option>
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -176,5 +181,15 @@
     </ignored-roots>
     <MESSAGE value="更新防抖节流" />
     <option name="LAST_COMMIT_MESSAGE" value="更新防抖节流" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605273776732">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="435" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.825@0.23.1440.825" timestamp="1605273776732" />
+    <state x="789" y="359" key="SettingsEditor" timestamp="1602587360867">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="789" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1602587360867" />
   </component>
 </project>
