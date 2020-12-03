@@ -43,6 +43,7 @@
 |[从零开始搭建一个Koa后端项目](https://blog.suevily.cn/58225/)|`Koa`、`搭建项目`、`目录结构`、`分层`|
 |[GraphQL 落地背后：利弊取舍](https://segmentfault.com/a/1190000022369233)|`GraphQL`、`Restful`、`koa`、`mongo`|
 |[GraphQL 搭配 Koa 最佳入门实践](https://segmentfault.com/a/1190000012720317)|`GraphQL`、`Restful`、`koa`、`入门`|
+|[服务端高并发分布式架构演进之路](https://www.jianshu.com/p/f4a907fe1485)|`服务端架构`、`架构师`、`分布式`、`淘宝架构`|
 
 
 
